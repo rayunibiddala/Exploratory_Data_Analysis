@@ -1,3 +1,7 @@
+# Usage 
+# Code expects data file in folder './week1/exdata-data-household_power_consumption/household_power_consumption.txt'
+# To run: source ("./week1/plot4.r")
+
 source ("./week1/load_data.r")
 
 # create png size 480 x 480
